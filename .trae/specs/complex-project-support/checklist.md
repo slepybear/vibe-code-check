@@ -1,0 +1,22 @@
+# 复杂项目支持 - Verification Checklist
+
+- [x] Checkpoint 1: 可以在单文件模式和多文件模式之间切换
+- [x] Checkpoint 2: 文件树编辑器正确显示项目文件结构
+- [x] Checkpoint 3: 可以创建新文件（支持 HTML、CSS、JS 等扩展名）
+- [x] Checkpoint 4: 可以删除现有文件
+- [x] Checkpoint 5: 可以重命名文件和修改扩展名
+- [x] Checkpoint 6: 每个文件有独立的编辑器，切换时内容正确更新
+- [x] Checkpoint 7: 不同扩展名的文件使用正确的语言高亮模式
+- [x] Checkpoint 8: 可以上传图片并转换为 Base64 嵌入
+- [x] Checkpoint 9: 超过 5MB 的图片被正确拒绝并显示提示
+- [x] Checkpoint 10: 多文件项目可以正确预览，所有文件被正确加载
+- [x] Checkpoint 11: 图片资源在预览中正确显示
+- [x] Checkpoint 12: 可以导出完整项目为 ZIP 文件
+- [x] Checkpoint 13: ZIP 文件包含所有项目文件和正确的目录结构
+- [x] Checkpoint 14: 现有单文件题目可以正确加载和编辑
+- [x] Checkpoint 15: 所有现有功能在单文件模式下正常工作
+- [x] Checkpoint 16: 文件操作响应时间 < 100ms
+- [x] Checkpoint 17: 编辑器在处理较大文件时保持响应
+- [x] Checkpoint 18: UI 美观，与现有风格保持一致
+- [x] Checkpoint 19: 没有 TypeScript 编译错误
+- [x] Checkpoint 20: 完整的用户流程（创建、编辑、预览、导出）可以无错误完成
